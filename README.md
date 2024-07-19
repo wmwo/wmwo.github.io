@@ -1,22 +1,24 @@
 <title>rotmaxx.ing</title>
 <html>
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
       .image-container {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh;
-        margin: 0;
-        margin-bottom: -133px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 133px; /* Set the height of the banner */
       }
 
       .image-container > img {
         max-width: 100%;
         height: auto;
+        margin: 0 auto;
+        display: block;
+      }
+
+      body {
+        padding-top: 133px; /* Add padding to the body to avoid overlapping content */
       }
     </style>
   </head>
@@ -27,6 +29,7 @@
     <!-- Add your comments section here -->
   </body>
 </html>
+
 
 
 <head>

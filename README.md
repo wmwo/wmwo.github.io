@@ -1,5 +1,5 @@
 <title>rotmaxx.ing</title>
-![failure-test](https://github.com/user-attachments/assets/a11ead59-de45-4c6b-8be2-8cc45061fdf2)
+![failure-resize](https://github.com/user-attachments/assets/17bc12ee-bc82-4b2d-a2f4-383637562672)
 <head>
   <style>
     body {

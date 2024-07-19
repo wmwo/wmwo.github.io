@@ -15,9 +15,6 @@
     }
   </style>
 </head>
-
-
-# home
 <script src="https://utteranc.es/client.js"
         repo="rotmaxxing/home"
         issue-term="pathname"

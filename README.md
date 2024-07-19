@@ -1,4 +1,5 @@
-<title></title>
+<title> ![failure-test](https://github.com/user-attachments/assets/a11ead59-de45-4c6b-8be2-8cc45061fdf2)
+ </title>
 <head>
   <style>
     body {

@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
     <style>
       .image-container {
         display: flex;
@@ -11,6 +12,7 @@
         align-items: center;
         min-height: 100vh;
         margin: 0;
+        margin-bottom: -133px;
       }
 
       .image-container > img {
@@ -23,6 +25,7 @@
     <div class="image-container">
       <img src="https://github.com/user-attachments/assets/17bc12ee-bc82-4b2d-a2f4-383637562672">
     </div>
+    <!-- Add your comments section here -->
   </body>
 </html>
 

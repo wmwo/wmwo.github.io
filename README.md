@@ -1,5 +1,15 @@
 <title>rotmaxx.ing</title>
-![failure-resize](https://github.com/user-attachments/assets/17bc12ee-bc82-4b2d-a2f4-383637562672)
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Add your meta tags, links, and stylesheets here -->
+  </head>
+  <body>
+    <img src="https://github.com/user-attachments/assets/17bc12ee-bc82-4b2d-a2f4-383637562672">
+    <!-- Add your other HTML elements here -->
+  </body>
+</html>
+
 <head>
   <style>
     body {

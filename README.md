@@ -51,10 +51,18 @@
     }
   </style>
 </head>
-<script src="https://utteranc.es/client.js"
-        repo="rotmaxxing/rotmaxxing.github.io"
-        issue-term="pathname"
-        theme="github-dark"
+<script src="https://giscus.app/client.js"
+        data-repo="wmwo/wmwo.github.io"
+        data-repo-id="R_kgDOMYYNzA"
+        data-category="General"
+        data-category-id="DIC_kwDOMYYNzM4Cg-A-"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="en"
         crossorigin="anonymous"
         async>
 </script>

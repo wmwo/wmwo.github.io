@@ -16,7 +16,7 @@
   </style>
 </head>
 <script src="https://utteranc.es/client.js"
-        repo="rotmaxxing/home"
+        repo="rotmaxxing/rotmaxxing.github.io"
         issue-term="pathname"
         theme="github-dark"
         crossorigin="anonymous"

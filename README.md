@@ -31,38 +31,3 @@
     <!-- Add your comments section here -->
   </body>
 </html>
-
-
-
-<head>
-  <style>
-    body {
-      background-color: #000000;
-      color: #e0e0e0;
-    }
-
-    a {
-      color: #b7b7b7;
-    }
-
-    code, pre {
-      background-color: #000000;
-      color: #e0e0e0;
-    }
-  </style>
-</head>
-<script src="https://giscus.app/client.js"
-        data-repo="wmwo/wmwo.github.io"
-        data-repo-id="R_kgDOMYYNzA"
-        data-category="General"
-        data-category-id="DIC_kwDOMYYNzM4Cg-A-"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="dark"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
